@@ -10,8 +10,6 @@ Return the minimum number of months needed to complete all the courses.
 
 Note: The test cases are generated such that it is possible to complete every course (i.e., the graph is a directed acyclic graph).
 
- 
-
 Example 1:
 
 ![ex1 (2)](https://user-images.githubusercontent.com/88260025/222917130-2e401139-0e21-4589-99cc-94da59cd785d.png)
